@@ -8,8 +8,7 @@
 * Name: Charleen Muyot
 * Section: T3/4
 * Project: Lab 25
-* Doc Statement:C4C Phillips helped me in the readfile function by informing me that I had to skip the first line of the
- * data by using fgets.
+* Doc Statement:]
 * =================================================================
 */
 #define FILENAME "lab25Data.csv"
